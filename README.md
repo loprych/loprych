@@ -6,7 +6,7 @@
 
 <ul>
   <li>🌱 Currently learning Docker <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/></a> and Kubernetes <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/></a></li>
-  <li>😄 I am interested in powerlifting, transport, automotive, and mobile gadgets, techno music.</li>
+  <li>😄 I am interested in powerlifting, transport, automotive and mobile gadgets, techno music.</li>
   <li>📫 Reach me via email: <a href="mailto:lukaszoprych@gmail.com">lukaszoprych@gmail.com</a></li>
 </ul>
 
