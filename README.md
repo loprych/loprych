@@ -49,4 +49,7 @@
   <a href="https://github.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="github" width="40" height="40"/>
   </a>
+  <a href="https://aws.amazon.com/free/?trk=66441bc6-e4bc-4a33-aafb-45319d9c5b51&sc_channel=ps&s_kwcid=AL!4422!3!453071974957!e!!g!!aws&ef_id=Cj0KCQiA_P6dBhD1ARIsAAGI7HBTEA3K8VjJOP5SXlcXnqE57Rg4dOYpuTXqIvoM20Mlm-BPf3UL7zIaAmIrEALw_wcB:G:s&s_kwcid=AL!4422!3!453071974957!e!!g!!aws" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  </a>
 </div>
