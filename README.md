@@ -1,7 +1,7 @@
 <h3>Hi there 👋 </h3>
 
 <p>
-  I am a 3rd year student of Computer Science in Engineering at AGH University of Science and Technology.
+  I am a 4th year student of Computer Science in Engineering at AGH University of Science and Technology.
 </p>
 
 <ul>
