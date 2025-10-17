@@ -5,8 +5,8 @@
 </p>
 
 <ul>
-  <li>🌱 Currently learning Kubernetes <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"/></a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="20" height="20"/></li>
-  <li>😄 I am interested in powerlifting, transport, automotive, mobile gadgets and techno music.</li>
+  <li>🌱 Currently learning Kubernetes, Azure, Terraform</li>
+  <li>😄 I am interested in powerlifting, automotive, gadgets and techno music</li>
   <li>📫 Reach me via email: <a href="mailto:lukaszoprych@gmail.com">lukaszoprych@gmail.com</a></li>
 </ul>
 
